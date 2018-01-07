@@ -1,4 +1,4 @@
-package com.shu.nit.controller;
+package com.shu.nitin.controller;
 
 import java.util.Arrays;
 import java.util.List;
@@ -8,7 +8,7 @@ import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RequestMethod;
 import org.springframework.web.bind.annotation.ResponseBody;
 
-import com.shu.nit.model.Customer;
+import com.shu.nitin.model.Customer;
 
 @Controller
 @RequestMapping("${server.context.path}")

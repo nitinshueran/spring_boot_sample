@@ -1,4 +1,4 @@
-package com.shu.nit.springboot;
+package com.shu.nitin.springboot;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

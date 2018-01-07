@@ -1,4 +1,4 @@
-package com.shu.nit.model;
+package com.shu.nitin.model;
 
 public class Customer {
 
